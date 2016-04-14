@@ -1,8 +1,10 @@
-## Arnold Manzano
+# Arnold Manzano
 
 The adventure of puzzles and the thrill of bug-hunting animates me. I am an aspiring software developer motivated towards building solutions through code.
 
-As an electronics engineer designing microchips for almost eight years, I thrived in an environment that demanded an innovative mind and team-centric values. Now, I want to fuse those experiences with my passion for programming to re-focus my energy and hunger for problem-solving and continuous learning.
+As an electronics engineer designing microchips for seven years, I thrived in an environment that demanded an innovative mind and team-centric values. Now, I want to fuse those experiences with my passion for programming to re-focus my energy and hunger for problem-solving and continuous learning.
+
+arnold.manzano@gmail.com
 
 ## Skills
 
@@ -31,11 +33,11 @@ Code samples:
 
 #### University of the Philippines (June 2001 to April 2007)
 *BS Electronics and Communications Engineering*
-- Computer science modules on programming and data structures
+- Computer science modules on C/C++ programming and data structures
 - Final thesis research on Integrated Chip (IC) design, IEEE published paper: [Design and implementation of CMOS rail-to-rail operational amplifiers](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4391985&filter%3DAND%28p_IS_Number%3A4391972%29)
 
 ## Experience
-**Marvell Asia Pte Ltd** (June 2008 to June 2015)  
+**Marvell Asia Pte Ltd** (June 2008 to July 2015)  
 *Senior Analog Design Engineer*
 - RnD of semiconductor microchips in nanometer technologies
 - Product focus: Input/Output pads - chip-protection against Electro-Static Discharge and chip-interface to external signals
