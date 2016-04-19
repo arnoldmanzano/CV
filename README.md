@@ -37,12 +37,12 @@ Code samples:
 - Final thesis research on Integrated Chip (IC) design, IEEE published paper: [Design and implementation of CMOS rail-to-rail operational amplifiers](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4391985&filter%3DAND%28p_IS_Number%3A4391972%29)
 
 ## Experience
-**Marvell Asia Pte Ltd** (June 2008 to July 2015)  
+**Marvell Asia Pte Ltd, Singapore** (June 2008 to July 2015)  
 *Senior Analog Design Engineer*
 - RnD of semiconductor microchips in nanometer technologies
 - Product focus: Input/Output pads - chip-protection against Electro-Static Discharge and chip-interface to external signals
 
-**University of the Philippines Asia Pte Ltd** (June 2007 to Nov 2007)    
+**University of the Philippines** (June 2007 to Nov 2007)    
 *Teaching Associate*
 - Courses Handled: Introduction to Semiconductor Devices and Circuits (Lecture and Laboratory)
 
