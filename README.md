@@ -25,10 +25,11 @@ Code samples:
 
 | Project | Description |
 | --- | --- |
-| [Bowling](https://github.com/arnoldmanzano/bowling-challenge) | Kata implemented in Javascript / Jquery interface. |
+| [Bowling](https://github.com/arnoldmanzano/bowling-challenge) | Bowling kata implemented in Javascript with visual interface using Jquery. - [Live in GH-Pages](http://arnoldmanzano.github.io/bowling-challenge-local/) |
 | [Photo_bomb](https://github.com/arnoldmanzano/instagram-challenge) | Instagram Clone built using Ruby on Rails.|
+|[Octo-Search](https://github.com/arnoldmanzano/octo-search) | A web-app using Github user search API built while learning AngularJS - [ Heroku Live](https://octosearchleo.herokuapp.com/) |
 | [Whose Round is it Anyway?](https://github.com/2blastoff/Whos-round-is-it-anyway) | A web-app for sharing group expenses. Conceptualized and built in 3 days in a team of 4 using AngularJS and Rails.|
-| [LocalHost](https://github.com/arnoldmanzano/local-knowledge) | A website for tourists to get connected to people with local knowledge. Designed and built in 2 weeks in a team of 4 using Rails and AngularJS. |
+| [LocalHost](https://github.com/arnoldmanzano/local-knowledge) | A website for tourists to get connected to people with local knowledge. Designed and built in 2 weeks in a team of 4 using Rails and AngularJS. - [Heroku Live](https://local-host.herokuapp.com/)|
 
 
 #### University of the Philippines (June 2001 to April 2007)
