@@ -38,6 +38,9 @@ Code samples:
 - Final thesis research on Integrated Chip (IC) design, IEEE published paper: [Design and implementation of CMOS rail-to-rail operational amplifiers](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4391985&filter%3DAND%28p_IS_Number%3A4391972%29)
 
 ## Experience
+**PensionBee Ltd** (June 2016 to present)  
+*Software Engineer*
+
 **Marvell Asia Pte Ltd, Singapore** (June 2008 to July 2015)  
 *Senior Analog Design Engineer*
 - RnD of semiconductor microchips in nanometer technologies
